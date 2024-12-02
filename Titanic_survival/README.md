@@ -1,1 +1,1 @@
-# ML-Projects
+An EDA on Titanic dataset. Then used a Pipelien to preprocessing data. Finally I compared two models: SGD and RandomForest Classifiers by their PR and ROC curves.
